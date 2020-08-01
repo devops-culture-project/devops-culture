@@ -27,6 +27,11 @@ In general, knowing these concepts and ideas will help you to become better in a
 ### Infrastructure as a Code
 1. Iac by Microsoft: https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code
 
+### Testing
+1. Cross Browser Testing: https://www.softwaretestinghelp.com/how-is-cross-browser-testing-performed/
+1. Parallel testing: https://help.crossbrowsertesting.com/selenium-testing/getting-started/what-is-parallel-testing/
+1. Performance Testing vs. Load Testing vs. Stress Testing by BlazeMeter: https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing
+
 ## Ideas
 1. The Twelve-Factoer App: https://www.linuxfoundation.org/projects/cloud/
 1. The secret lives of data (RAFT): http://thesecretlivesofdata.com/raft/
@@ -36,7 +41,6 @@ In general, knowing these concepts and ideas will help you to become better in a
 1. Bret Fisher Blog: https://newsletter.bretfisher.com
 1. Bret Fisher "Ask Me Anything": https://github.com/BretFisher/ama
 1. TGI Kubernetes by Joe Beda: https://www.youtube.com/watch?v=9YYeE-bMWv8&list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa&index=99
-1. (Optional) Bret Fisher container courses: (In bret fisher's website)
 
 ## Hubs
 1. Docker Hub: https://hub.docker.com
@@ -68,8 +72,11 @@ In general, knowing these concepts and ideas will help you to become better in a
 1. Python (learnpython): https://www.learnpython.org
 1. Go tour: https://go-tour-he.appspot.com/#1
 
-## TODO (That's for Itamar)
+### Containers
+1. Bret Fisher container courses: (In bret fisher's website)
+1. Docker multi stage build: https://medium.com/capital-one-tech/multi-stage-builds-and-dockerfile-b5866d9e2f84
+
+## Road Map (That's for Itamar)
 1. CNAB: https://cnab.io
 1. ARA
 1. Tagging
-1. TEST
