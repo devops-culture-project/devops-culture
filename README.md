@@ -55,13 +55,18 @@ In general, knowing these concepts and ideas will help you to become better in a
 1. The agile admin: https://theagileadmin.com
 1. Atlassian Devops: https://www.atlassian.com/blog/devops
 
-# Hands-On
-## GIT:
+## Hands-On
+
+### GIT:
 1. Resources to learn git by GitHub: https://try.github.io
 
-## Programming:
-1. Python
-1. Go: https://go-tour-he.appspot.com/#1
+### Ansible
+1. GitHub Ansible workshops: https://github.com/ansible/workshops
+1. RedHat Ansible wrokshop: http://ansible.redhatgov.io/standard/welcome/index.html
+
+### Programming:
+1. Python (learnpython): https://www.learnpython.org
+1. Go tour: https://go-tour-he.appspot.com/#1
 
 ## TODO (That's for Itamar):
 1. CNAB: https://cnab.io
