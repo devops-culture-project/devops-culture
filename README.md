@@ -5,8 +5,6 @@ Ideas &amp; concepts that will help you become a great devops
 This documnet created to help developers and operations as one to get easily inside the world of devops.
 In general, knowing these concepts and ideas will help you to become better in any field.
 
-![Devops Gif](https://media.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif)
-
 ## What is Devops:
 1. Quick and simple video: https://www.youtube.com/watch?v=_I94-tJlovg
 1. What is devops by Amazon: https://aws.amazon.com/devops/what-is-devops/
