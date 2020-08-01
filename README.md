@@ -9,7 +9,7 @@ Ideas &amp; concepts that will help you become a great devops
 4. What is CI/CD by RedHat: https://www.redhat.com/en/topics/devops/what-is-ci-cd
 5. What is CI/CD by Codefresh: https://codefresh.io/continuous-integration/continuous-integration-delivery-pipeline-important/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=docker-ci-cd&amp;utm_term=ci%20cd%20tools&amp;gclid=Cj0KCQjw6sHzBRCbARIsAF8FMpVQCgsC9ozvQGx0wuzZK6h1WAeH0tafDfyg-_H23L0eHSiRgajxIdEaAmkeEALw_wcB
 6. CI &amp; Contineuos Delivery vs. Contineuos Deployment by Atlassian: https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
-7. DevSecOps: DevSecOps-Culture.pdf by Snyk (under devsecops directory)
+7. DevSecOps by Snyk: [DevSecOps Culture](devsecops/DevSecOps-Culture.pdf)
 8. Everything you need to know to beacome a Gitops ninja: https://www.youtube.com/watch?v=r50tRQjisxw
 
 ## Concepts:
