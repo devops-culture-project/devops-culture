@@ -57,7 +57,7 @@ In general, knowing these concepts and ideas will help you to become better in a
 
 ## Hands-On
 
-### GIT:
+### GIT
 1. Resources to learn git by GitHub: https://try.github.io
 
 ### Ansible
