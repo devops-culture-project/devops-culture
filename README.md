@@ -15,7 +15,7 @@ In general, knowing these concepts and ideas will help you to become better in a
 ### CI/CD
 1. What is CI/CD by RedHat: https://www.redhat.com/en/topics/devops/what-is-ci-cd
 1. What is CI/CD by Codefresh: https://codefresh.io/continuous-integration/continuous-integration-delivery-pipeline-important/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=docker-ci-cd&amp;utm_term=ci%20cd%20tools&amp;gclid=Cj0KCQjw6sHzBRCbARIsAF8FMpVQCgsC9ozvQGx0wuzZK6h1WAeH0tafDfyg-_H23L0eHSiRgajxIdEaAmkeEALw_wcB
-1. CI &amp; Contineuos Delivery vs. Contineuos Deployment by Atlassian: https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+1. CI &amp; Continuous Delivery vs. Continuous Deployment by Atlassian: https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
 1. Devops Assembly Lines: https://www.xenonstack.com/blog/devops-assembly-line/
 
 ### Sec(urity)
@@ -35,6 +35,7 @@ In general, knowing these concepts and ideas will help you to become better in a
 ## Ideas
 1. The Twelve-Factoer App: https://www.linuxfoundation.org/projects/cloud/
 1. The secret lives of data (RAFT): http://thesecretlivesofdata.com/raft/
+1. AWS Well-Architected and the Five Pillars: https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc
 
 ## Container Captains
 1. Bret Fisher: https://www.bretfisher.com
@@ -80,3 +81,4 @@ In general, knowing these concepts and ideas will help you to become better in a
 1. CNAB: https://cnab.io
 1. ARA
 1. Tagging
+1. Code Coverage
