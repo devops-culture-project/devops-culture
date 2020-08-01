@@ -13,6 +13,7 @@ In general, knowing these concepts and ideas will help you to become better in a
 1. What is CI/CD by RedHat: https://www.redhat.com/en/topics/devops/what-is-ci-cd
 1. What is CI/CD by Codefresh: https://codefresh.io/continuous-integration/continuous-integration-delivery-pipeline-important/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=docker-ci-cd&amp;utm_term=ci%20cd%20tools&amp;gclid=Cj0KCQjw6sHzBRCbARIsAF8FMpVQCgsC9ozvQGx0wuzZK6h1WAeH0tafDfyg-_H23L0eHSiRgajxIdEaAmkeEALw_wcB
 1. CI &amp; Contineuos Delivery vs. Contineuos Deployment by Atlassian: https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
+1. Devops Assembly Lines: https://www.xenonstack.com/blog/devops-assembly-line/
 1. DevSecOps by Snyk: [DevSecOps Culture](devsecops/DevSecOps-Culture.pdf)
 1. Everything you need to know to beacome a Gitops ninja: https://www.youtube.com/watch?v=r50tRQjisxw
 
@@ -26,6 +27,10 @@ In general, knowing these concepts and ideas will help you to become better in a
 1. Bret Fisher "Ask Me Anything": https://github.com/BretFisher/ama
 1. TGI Kubernetes by Joe Beda: https://www.youtube.com/watch?v=9YYeE-bMWv8&list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa&index=99
 1. (Optional) Bret Fisher container courses: (In bret fisher's website)
+
+## Hubs:
+1. Docker Hub: https://hub.docker.com
+2. Operator Hub: https://operatorhub.io
 
 ## Know these foundations:
 1. CNCF: https://www.cncf.io/
