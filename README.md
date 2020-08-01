@@ -56,3 +56,6 @@ Atlassian Devops: https://www.atlassian.com/blog/devops
 
 ## TODO (That's for Itamar):
 1. CNAB: https://cnab.io
+1. ARA
+1. Tagging
+1. TEST
