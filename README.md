@@ -4,6 +4,8 @@ Ideas &amp; concepts that will help you become a great devops
 ## Inroduction
 This documnet created to help developers and operations as one to get easily inside the world of devops.
 In general, knowing these concepts and ideas will help you to become better in any field.
+There are more specific information to some stuff and it's inside it's specific folder.
+Hope it will help you !
 
 ## Concepts
 
@@ -23,6 +25,11 @@ In general, knowing these concepts and ideas will help you to become better in a
 
 ### Gitops
 1. Everything you need to know to beacome a Gitops ninja: https://www.youtube.com/watch?v=r50tRQjisxw
+
+### Cloud Services
+1. What is Cloud Computing by Amazon: https://aws.amazon.com/what-is-cloud-computing/
+1. What is Cloud services by RedHat: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjx75m-lvrqAhUNDuwKHXQsBq8QFjAYegQICBAB&url=https%3A%2F%2Fwww.redhat.com%2Fen%2Ftopics%2Fcloud-computing%2Fwhat-are-cloud-services&usg=AOvVaw0fE1gad5auCREo0yc8dQwH
+1. Best practices for production cloud service: https://medium.com/@crismerritt/dont-overlook-these-8-essential-best-practices-for-production-cloud-services-9b2145f5cb1e
 
 ### Infrastructure as a Code
 1. Iac by Microsoft: https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code
@@ -75,10 +82,13 @@ In general, knowing these concepts and ideas will help you to become better in a
 
 ### Containers
 1. Bret Fisher container courses: (In bret fisher's website)
-1. Docker multi stage build: https://medium.com/capital-one-tech/multi-stage-builds-and-dockerfile-b5866d9e2f84
+1. k8s tutorials: https://kubernetes.io/docs/tutorials/
+1. k8s interactive scenarios by Katacoda: https://katacoda.com/courses/kubernetes/
 
 ## Road Map (That's for Itamar)
 1. CNAB: https://cnab.io
 1. ARA
 1. Tagging
 1. Code Coverage
+1. Logging and monitoring + metrics
+1. Helm
