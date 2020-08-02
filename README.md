@@ -21,7 +21,11 @@ Hope it will help you !
 1. Devops Assembly Lines: https://www.xenonstack.com/blog/devops-assembly-line/
 
 ### Sec(urity)
-1. DevSecOps by Snyk: [DevSecOps Culture](devsecops/DevSecOps-Culture.pdf)
+1. What is devsecops by RedHat: https://www.redhat.com/en/topics/devops/what-is-devsecops
+1. DevSecOps community: https://github.com/devsecops/devsecops
+1. Awsome DevSecOps: https://github.com/devsecops/awesome-devsecops
+1. DevSecOps manifesto: https://www.devsecops.org/
+1. More from DevSecOps: [DevSecOps Culture](devsecops/)
 
 ### Gitops
 1. Everything you need to know to beacome a Gitops ninja: https://www.youtube.com/watch?v=r50tRQjisxw
@@ -92,6 +96,10 @@ List of projects that is good to know
 Website: https://helm.sh/
 GitHub: https://github.com/helm
 
+### DevSecOps - DevSecOps initiative and software repositories
+Website: https://www.devsecops.org/
+GitHub: https://github.com/devsecops
+
 ### Netdata - for monitoring
 Website: https://www.netdata.cloud/
 GitHub: https://github.com/netdata
@@ -105,7 +113,6 @@ Docker Hub: https://hub.docker.com/u/argoproj
 ### Snyk - Continuous Security
 https://github.com/snyk
 https://snyk.io/
-
 
 ### Tekton - CI pipelines
 Website: https://tekton.dev/
