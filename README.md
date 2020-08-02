@@ -81,7 +81,7 @@ Hope it will help you !
 1. Go tour: https://go-tour-he.appspot.com/#1
 
 ### Containers
-1. Bret Fisher container courses: (In bret fisher's website)
+1. Bret Fisher container courses: https://www.bretfisher.com/courses/ (I guess that's the best option but it costs money)
 1. k8s tutorials: https://kubernetes.io/docs/tutorials/
 1. k8s interactive scenarios by Katacoda: https://katacoda.com/courses/kubernetes/
 
