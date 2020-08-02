@@ -7,6 +7,13 @@ In general, knowing these concepts and ideas will help you to become better in a
 There are more specific information to some stuff and it's inside it's specific folder.
 Hope it will help you !
 
+## Devops RoadMap
+
+This is the check list (or step by step guide) to become a devops/SRE (or whatever you want to call it):
+https://roadmap.sh/devops
+
+I don't think that's the perfect and full example but it sure help to understand the basics.
+
 ## Concepts
 
 ### What is Devops
@@ -70,6 +77,7 @@ Hope it will help you !
 1. CI/CD Foundation: https://cd.foundation/
 
 ## Know these websites
+1. The Devop Guy YouTube Channel: https://www.youtube.com/channel/UCFe9-V_rN9nLqVNiI8Yof3w
 1. Medium: https://medium.com (Advice: Pay 5$ per month and create an account)
 1. Medium Container Hub bt Codefresh: https://medium.com/containers-101
 1. Docker Blog: https://www.docker.com/blog/
@@ -140,4 +148,4 @@ Docker Hub (By SimilarWeb): https://hub.docker.com/u/similarweb
 1. Tagging
 1. Code Coverage
 1. Logging and monitoring + metrics
-1. Helm
+1. cluster-level-logging (k8s) https://kubernetes.io/docs/concepts/cluster-administration/logging/
