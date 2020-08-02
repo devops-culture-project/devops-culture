@@ -30,6 +30,11 @@ Hope it will help you !
 ### Gitops
 1. Everything you need to know to beacome a Gitops ninja: https://www.youtube.com/watch?v=r50tRQjisxw
 
+### Configuration Management
+1. What is configuration management by DigitalOcean: https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management
+1. What is configuration management by RedHat: https://www.redhat.com/en/topics/automation/what-is-configuration-management
+1. The importance of configuration management: https://medium.com/faun/the-importance-of-configuration-management-cm-for-successful-software-development-25ee60829e9b
+
 ### Cloud Services
 1. What is Cloud Computing by Amazon: https://aws.amazon.com/what-is-cloud-computing/
 1. What is Cloud services by RedHat: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjx75m-lvrqAhUNDuwKHXQsBq8QFjAYegQICBAB&url=https%3A%2F%2Fwww.redhat.com%2Fen%2Ftopics%2Fcloud-computing%2Fwhat-are-cloud-services&usg=AOvVaw0fE1gad5auCREo0yc8dQwH
