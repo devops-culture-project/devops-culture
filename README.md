@@ -85,6 +85,43 @@ Hope it will help you !
 1. k8s tutorials: https://kubernetes.io/docs/tutorials/
 1. k8s interactive scenarios by Katacoda: https://katacoda.com/courses/kubernetes/
 
+## Great projects to know
+List of projects that is good to know
+
+### Helm - Package manager for k8s
+Website: https://helm.sh/
+GitHub: https://github.com/helm
+
+### Netdata - for monitoring
+Website: https://www.netdata.cloud/
+GitHub: https://github.com/netdata
+Docker Hub: https://hub.docker.com/u/netdata
+
+### Argo - CD for k8s
+Website: https://argoproj.github.io/
+GitHub: https://github.com/argoproj
+Docker Hub: https://hub.docker.com/u/argoproj
+
+### Snyk - Continuous Security
+https://github.com/snyk
+https://snyk.io/
+
+
+### Tekton - CI pipelines
+Website: https://tekton.dev/
+GitHub: https://github.com/tektoncd
+Docker Hub: https://hub.docker.com/u/tekton
+
+### Selenium - for UI testing
+Website: https://www.selenium.dev/
+GitHub: https://github.com/SeleniumHQ
+Docker Hub: https://hub.docker.com/u/selenium
+
+### Statusbay - Visibility to k8s deployment
+Website: https://statusbay.io/
+GitHub: https://github.com/similarweb/statusbay
+Docker Hub (By SimilarWeb): https://hub.docker.com/u/similarweb
+
 ## Road Map (That's for Itamar)
 1. CNAB: https://cnab.io
 1. ARA
