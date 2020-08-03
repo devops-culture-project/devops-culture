@@ -149,3 +149,6 @@ Docker Hub (By SimilarWeb): https://hub.docker.com/u/similarweb
 1. Code Coverage
 1. Logging and monitoring + metrics
 1. cluster-level-logging (k8s) https://kubernetes.io/docs/concepts/cluster-administration/logging/
+1. Web servers
+1. Http/s
+1. Microservices
