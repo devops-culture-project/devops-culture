@@ -2,7 +2,7 @@
 Ideas &amp; concepts that will help you become a great devops
 
 ## Inroduction
-This documnet created to help developers and operations as one to get easily inside the world of devops.
+This document created to help developers and operations as one to get easily inside the world of devops.
 In general, knowing these concepts and ideas will help you to become better in any field.
 There are more specific information to some stuff and it's inside it's specific folder.
 Hope it will help you !
@@ -55,6 +55,22 @@ I don't think that's the perfect and full example but it sure help to understand
 1. Parallel testing: https://help.crossbrowsertesting.com/selenium-testing/getting-started/what-is-parallel-testing/
 1. Performance Testing vs. Load Testing vs. Stress Testing by BlazeMeter: https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing
 
+### Microservices
+1. Microservices in a nutshell: https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9
+1. Microservices architecthure style by Microsoft: https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices
+1. What are microservices by RedHat: https://www.redhat.com/en/topics/microservices/what-are-microservices
+
+### Web servers
+1. Web servers introduction: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
+1. What is a proxy server by Varonis: https://www.varonis.com/blog/what-is-a-proxy-server/
+1. What is a reverse proxy by NGINX: https://www.nginx.com/resources/glossary/reverse-proxy-server/
+
+### API & REST
+1. REST API Tutorial: https://restfulapi.net
+1. REST: Good Practices for API Design: https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9
+1. Web API design by Microsoft: https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+
+
 ## Ideas
 1. The Twelve-Factoer App: https://www.linuxfoundation.org/projects/cloud/
 1. The secret lives of data (RAFT): http://thesecretlivesofdata.com/raft/
@@ -96,6 +112,9 @@ I don't think that's the perfect and full example but it sure help to understand
 ### Programming
 1. Python (learnpython): https://www.learnpython.org
 1. Go tour: https://go-tour-he.appspot.com/#1
+
+### HTTP/S
+1. HTTP fundementals: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP
 
 ### Containers
 1. Bret Fisher container courses: https://www.bretfisher.com/courses/ (I guess that's the best option but it costs money)
@@ -149,6 +168,4 @@ Docker Hub (By SimilarWeb): https://hub.docker.com/u/similarweb
 1. Code Coverage
 1. Logging and monitoring + metrics
 1. cluster-level-logging (k8s) https://kubernetes.io/docs/concepts/cluster-administration/logging/
-1. Web servers
-1. Http/s
-1. Microservices
+1. serverless
