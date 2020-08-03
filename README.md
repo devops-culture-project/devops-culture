@@ -70,6 +70,8 @@ I don't think that's the perfect and full example but it sure help to understand
 1. REST: Good Practices for API Design: https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9
 1. Web API design by Microsoft: https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 
+### HTTP/S
+1. HTTP fundementals: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP
 
 ## Ideas
 1. The Twelve-Factoer App: https://www.linuxfoundation.org/projects/cloud/
@@ -112,9 +114,6 @@ I don't think that's the perfect and full example but it sure help to understand
 ### Programming
 1. Python (learnpython): https://www.learnpython.org
 1. Go tour: https://go-tour-he.appspot.com/#1
-
-### HTTP/S
-1. HTTP fundementals: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP
 
 ### Containers
 1. Bret Fisher container courses: https://www.bretfisher.com/courses/ (I guess that's the best option but it costs money)
