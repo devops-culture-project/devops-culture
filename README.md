@@ -130,6 +130,7 @@ GitHub: https://github.com/helm
 
 ### DevSecOps - DevSecOps initiative and software repositories
 Website: https://www.devsecops.org/
+
 GitHub: https://github.com/devsecops
 
 ### Netdata - for monitoring
@@ -143,8 +144,9 @@ GitHub: https://github.com/argoproj
 Docker Hub: https://hub.docker.com/u/argoproj
 
 ### Snyk - Continuous Security
-https://github.com/snyk
-https://snyk.io/
+Website: https://snyk.io/
+GitHub: https://github.com/snyk
+
 
 ### Tekton - CI pipelines
 Website: https://tekton.dev/
