@@ -32,7 +32,7 @@ I don't think that's the perfect and full example but it sure help to understand
 1. DevSecOps community: https://github.com/devsecops/devsecops
 1. Awsome DevSecOps: https://github.com/devsecops/awesome-devsecops
 1. DevSecOps manifesto: https://www.devsecops.org/
-1. More from DevSecOps: [DevSecOps Culture](devsecops/)
+1. More from DevSecOps: [DevSecOps Extras](devsecops/)
 
 ### Gitops
 1. Everything you need to know to beacome a Gitops ninja: https://www.youtube.com/watch?v=r50tRQjisxw
@@ -121,70 +121,8 @@ I don't think that's the perfect and full example but it sure help to understand
 1. k8s interactive scenarios by Katacoda: https://katacoda.com/courses/kubernetes/
 
 ## Great projects to know
-List of projects that is good to know
-
-### Must Have Projects
-### Docker
-Website: https://www.docker.com/
-
-GitHub: https://github.com/docker
-
-### Kubernetes
-Website: https://kubernetes.io/
-
-GitHub: https://github.com/kubernetes/kubernetes
-
-### Helm - Package manager for k8s
-Website: https://helm.sh/
-
-GitHub: https://github.com/helm
-
-### Projects for masters
-### DevSecOps - DevSecOps initiative and software repositories
-Website: https://www.devsecops.org/
-
-GitHub: https://github.com/devsecops
-
-### Netdata - for monitoring
-Website: https://www.netdata.cloud/
-
-GitHub: https://github.com/netdata
-
-Docker Hub: https://hub.docker.com/u/netdata
-
-### Argo - CD for k8s
-Website: https://argoproj.github.io/
-
-GitHub: https://github.com/argoproj
-
-Docker Hub: https://hub.docker.com/u/argoproj
-
-### Snyk - Continuous Security
-Website: https://snyk.io/
-
-GitHub: https://github.com/snyk
-
-
-### Tekton - CI pipelines engine
-Website: https://tekton.dev/
-
-GitHub: https://github.com/tektoncd
-
-Docker Hub: https://hub.docker.com/u/tekton
-
-### Selenium - for UI testing
-Website: https://www.selenium.dev/
-
-GitHub: https://github.com/SeleniumHQ
-
-Docker Hub: https://hub.docker.com/u/selenium
-
-### Statusbay - Visibility to k8s deployment
-Website: https://statusbay.io/
-
-GitHub: https://github.com/similarweb/statusbay
-
-Docker Hub (By SimilarWeb): https://hub.docker.com/u/similarweb
+List of projects that is important to know.
+For the list of projects: [Projects to know](projects.md)
 
 ## Road Map (That's for Itamar)
 1. CNAB: https://cnab.io
