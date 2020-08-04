@@ -123,11 +123,23 @@ I don't think that's the perfect and full example but it sure help to understand
 ## Great projects to know
 List of projects that is good to know
 
+### Must Have Projects
+### Docker
+Website: https://www.docker.com/
+
+GitHub: https://github.com/docker
+
+### Kubernetes
+Website: https://kubernetes.io/
+
+GitHub: https://github.com/kubernetes/kubernetes
+
 ### Helm - Package manager for k8s
 Website: https://helm.sh/
 
 GitHub: https://github.com/helm
 
+### Projects for masters
 ### DevSecOps - DevSecOps initiative and software repositories
 Website: https://www.devsecops.org/
 
@@ -153,7 +165,7 @@ Website: https://snyk.io/
 GitHub: https://github.com/snyk
 
 
-### Tekton - CI pipelines
+### Tekton - CI pipelines engine
 Website: https://tekton.dev/
 
 GitHub: https://github.com/tektoncd
