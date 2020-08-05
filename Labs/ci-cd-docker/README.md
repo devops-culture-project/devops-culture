@@ -5,8 +5,8 @@ We will create a basic ci/cd for docker that will build the image and push it to
 ## Requirements
 This lab assumes that you are running on a linux machine (MACOS is also good).
 Please install theese softwares on your machine/workstation:
-1. docker 
-1. docker-compose
+* docker 
+* docker-compose
 
 ## Environment
 This is your working directory for this lab (Labs/ci-cd-docker).
@@ -18,22 +18,81 @@ Please create a GitHub account at: https://github.com/
 Please create a docker hub account at: https://hub.docker.com/
 
 ## Jenkins
-1. Attached there is a Dockerfile. It will be your jenkins (also docker installed inside)
-1. Run this command:  
-    `docker build . -t devops-culture/jenkins-docker:1`
-1. Ensure that the docker image created:  
-    `docker image ls`
-1. Attached there is a docker-compose.yml file. It will set up your Jenkins server.
-1. On your own:
+Attached there is a Dockerfile. It will be your jenkins (also docker installed inside)
+Run this command:  
+    `docker build . -t devops-culture/jenkins-docker:1`  
+
+Ensure that the docker image created:  
+    `docker image ls`  
+
+Attached there is a docker-compose.yml file. It will set up your Jenkins server.  
+On your own:
 * Look at the compose file and see whats inside.
-* Find the address that jenkins will listen to.
-1. run in the working directory:  
-    `docker-compose up -d`
-1. View the generated administrator password to log in the first time:  
-    `docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword`
-1. Enter jenkins and log in.
+* Find the address that jenkins will listen to.  
+
+run in the working directory:  
+    `docker-compose up -d`  
+View the generated administrator password to log in the first time:  
+    `docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword`  
+Enter jenkins and log in.
 
 ![Jenkins First Login](pictures/jenkins-first-login.png)
+
+Enter the password and continue.  
+In next screen, click “Install suggested plugins” and wait for them to install.  
+In the next section you need to create a user for yourself.
+
+![Jenkins first user admin](pictures/create-first-user-admin.png)
+
+Click "get start using Jenkins"  
+Now we need to install two plugins:
+* blueocean plugin to beautify your jenkins. This plugin better the usability of jenkins and focus in pipelines scripts.
+* locale plugin to jenkins always show english text. You don’t need install this, but i suggest install to search errors directly in english.
+
+Go to Plugin Manager again and search for locale.
+
+To install plugins:
+- In home of jenkins, click in Manage Jenkins:
+
+![Jenkins Menu](jenkins-menu.png)
+
+- Click manage plugins:
+
+![Jenkins Menu Manage Plugins](jenkins-manage-plugins.png)
+
+In Plugin manager, you need click in Available tab and after load the tab, search the plugins:
+
+![Jenkins Plugin Manager](plugin-manager.png)
+
+Search for locale, mark the checkbox and click in install button:
+
+![Locale Installation](locale-install.png)
+
+After install locale, go to Home > Manage Jenkins > Configure System.
+
+![Configure System](jenkins-configure-system.png)
+
+Search for locale. Input “en” in “Default language” and check “ignore browser preference and force this language to all users”:
+
+![Choose Locale Language](locale-lang.png)
+
+Locale Plugin installed and configured, lets install Blue ocean.
+Back to jenkins home > Manage jenkins >Manage Plugins. In Available tab search for blueocean and install it.
+
+![Blue Ocean Installation](blueocean-install.png)
+
+All done. But you see the visual without blue ocean plugin, let’s use it.
+In Jenkins home, Click in “Open Blue Ocean” (left menu):
+
+![Choose Blue Ocean](jenkins-menu-blueocean.png)
+
+Now, you will see a screen like this:
+
+![Blue Ocean View](blue-ocean-jenkins-view.png)
+
+All Right, now we have jenkins installed and we are using blue ocean plugin to have a better experience in your pipelines.
+
+The next steps is create a pipeline to build some things for us.
 
 ## Jenkinsfile
 Attached is a Jenkinsfile for this lab.
@@ -41,6 +100,11 @@ Attached is a Jenkinsfile for this lab.
 ### Explenation
 In this pipeline, We have 2 environment variables to change the registry and the credential easily.
 The job will have one step.Docker build command will be run by utilizing the jenkins build number in the docker tag.
+
+## Creating a job to test docker command
+In home of jenkins, click on “New Item”, select “Pipeline” and put the job name as “docker-test”.
+
+![Create Pipeline](jenkins-create-pipeline.png)
 
 ## Biblography
 This Lab is based on this websites:
