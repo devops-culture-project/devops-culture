@@ -3,6 +3,7 @@ This section includes Information about learning sources.
 
 ## GIT
 1. Resources to learn git by GitHub: https://try.github.io
+1. Become a git guru by Atlassian: https://www.atlassian.com/git/tutorials
 
 ## Ansible
 1. GitHub Ansible workshops: https://github.com/ansible/workshops
