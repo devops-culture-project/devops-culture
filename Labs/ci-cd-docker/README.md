@@ -19,17 +19,17 @@ Please create a docker hub account at: https://hub.docker.com/
 
 ## Jenkins
 1. Attached there is a Dockerfile. It will be your jenkins (also docker installed inside)
-1. Run this command:
+1. Run this command:  
     `docker build . -t devops-culture/jenkins-docker:1`
-1. Ensure that the docker image created:
+1. Ensure that the docker image created:  
     `docker image ls`
 1. Attached there is a docker-compose.yml file. It will set up your Jenkins server.
 1. On your own:
-1. 1. Look at the compose file and see whats inside.
-1. 1. Find the address that jenkins will listen to.
-1. run in the working directory: 
+* Look at the compose file and see whats inside.
+* Find the address that jenkins will listen to.
+1. run in the working directory:  
     `docker-compose up -d`
-1. View the generated administrator password to log in the first time:
+1. View the generated administrator password to log in the first time:  
     `docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword`
 1. Enter jenkins and log in.
 

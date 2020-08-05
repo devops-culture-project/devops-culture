@@ -58,8 +58,6 @@ GitHub: https://github.com/SeleniumHQ
 Docker Hub: https://hub.docker.com/u/selenium
 
 ### Statusbay - Visibility to k8s deployment
-Website: https://statusbay.io/
-
-GitHub: https://github.com/similarweb/statusbay
-
+Website: https://statusbay.io/  
+GitHub: https://github.com/similarweb/statusbay  
 Docker Hub (By SimilarWeb): https://hub.docker.com/u/similarweb
