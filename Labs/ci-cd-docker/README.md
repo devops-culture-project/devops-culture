@@ -54,41 +54,41 @@ Go to Plugin Manager again and search for locale.
 To install plugins:
 - In home of jenkins, click in Manage Jenkins:
 
-![Jenkins Menu](jenkins-menu.png)
+![Jenkins Menu](pictures/jenkins-menu.png)
 
 - Click manage plugins:
 
-![Jenkins Menu Manage Plugins](jenkins-manage-plugins.png)
+![Jenkins Menu Manage Plugins](pictures/jenkins-manage-plugins.png)
 
 In Plugin manager, you need click in Available tab and after load the tab, search the plugins:
 
-![Jenkins Plugin Manager](plugin-manager.png)
+![Jenkins Plugin Manager](pictures/plugin-manager.png)
 
 Search for locale, mark the checkbox and click in install button:
 
-![Locale Installation](locale-install.png)
+![Locale Installation](pictures/locale-install.png)
 
 After install locale, go to Home > Manage Jenkins > Configure System.
 
-![Configure System](jenkins-configure-system.png)
+![Configure System](pictures/jenkins-configure-system.png)
 
 Search for locale. Input “en” in “Default language” and check “ignore browser preference and force this language to all users”:
 
-![Choose Locale Language](locale-lang.png)
+![Choose Locale Language](pictures/locale-lang.png)
 
 Locale Plugin installed and configured, lets install Blue ocean.
 Back to jenkins home > Manage jenkins >Manage Plugins. In Available tab search for blueocean and install it.
 
-![Blue Ocean Installation](blueocean-install.png)
+![Blue Ocean Installation](pictures/blueocean-install.png)
 
 All done. But you see the visual without blue ocean plugin, let’s use it.
 In Jenkins home, Click in “Open Blue Ocean” (left menu):
 
-![Choose Blue Ocean](jenkins-menu-blueocean.png)
+![Choose Blue Ocean](pictures/jenkins-menu-blueocean.png)
 
 Now, you will see a screen like this:
 
-![Blue Ocean View](blue-ocean-jenkins-view.png)
+![Blue Ocean View](pictures/blue-ocean-jenkins-view.png)
 
 All Right, now we have jenkins installed and we are using blue ocean plugin to have a better experience in your pipelines.
 
@@ -104,7 +104,7 @@ The job will have one step.Docker build command will be run by utilizing the jen
 ## Creating a job to test docker command
 In home of jenkins, click on “New Item”, select “Pipeline” and put the job name as “docker-test”.
 
-![Create Pipeline](jenkins-create-pipeline.png)
+![Create Pipeline](pictures/jenkins-create-pipeline.png)
 
 ## Biblography
 This Lab is based on this websites:
