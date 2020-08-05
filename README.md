@@ -110,11 +110,5 @@ For the list of learning sources: [hands-on learning sources](hands-on.md)
 List of projects that is important to know.
 For the list of projects: [Important Projects](projects.md)
 
-## Road Map (That's for Itamar)
-1. CNAB: https://cnab.io
-1. ARA
-1. Tagging
-1. Code Coverage
-1. Logging and monitoring + metrics
-1. cluster-level-logging (k8s) https://kubernetes.io/docs/concepts/cluster-administration/logging/
-1. serverless
+## Road Map
+Please reffer to the project's wiki page
