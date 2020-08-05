@@ -32,7 +32,7 @@ Please create a docker hub account at: https://hub.docker.com/
 1. 1. `docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword`
 1. Enter jenkins and log in.
 
-[Jenkins First Login](pictures/jenkins-first-login.png)
+![Jenkins First Login](pictures/jenkins-first-login.png)
 
 ## Jenkinsfile
 Attached is a Jenkinsfile for this lab.
