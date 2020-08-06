@@ -13,6 +13,7 @@ This is your working directory for this lab (Labs/ci-cd-docker).
 
 ## GitHub
 Please create a GitHub account at: https://github.com/
+Fork this repository to your account.
 
 ## Docker Hub
 Please create a docker hub account at: https://hub.docker.com/
@@ -33,7 +34,7 @@ On your own:
 run in the working directory:  
     `docker-compose up -d`  
 View the generated administrator password to log in the first time:  
-    `docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword`  
+    `docker exec jenkins-docker cat /var/jenkins_home/secrets/initialAdminPassword`  
 Enter jenkins and log in.
 
 ![Jenkins First Login](pictures/jenkins-first-login.png)
@@ -102,9 +103,9 @@ In this pipeline, We have 2 environment variables to change the registry and the
 The job will have one step.Docker build command will be run by utilizing the jenkins build number in the docker tag.
 
 ## Creating a job to test docker command
-In home of jenkins, click on “New Item”, select “Pipeline” and put the job name as “docker-test”.
+Click on "Create new pipeline" and choose GitHub in the second window:
 
-![Create Pipeline](pictures/jenkins-create-pipeline.png)
+![Choose GitHub](pictures/pipeline-choose-git.png)
 
 Copy the Jenkinsfile code to the job window:
 
@@ -117,9 +118,12 @@ Click on “Build Now” in job’s menu:
 
 ![Choose Build Now](pictures/jenkins-menu-build-now.png)
 
+It will ask you to generate a token. Press on the link "create an access token here".  
+Create an access token and then copy the token back to jenkins.  
+Choose your user (It suppose to be the only user) and then the lab's repository, and "Create Pipeline".
 
 
 ## Biblography
 This Lab is based on this websites:  
-https://medium.com/@gustavo.guss/quick-tutorial-of-jenkins-b99d5f5889f2
-https://medium.com/@gustavo.guss/jenkins-building-docker-image-and-sending-to-registry-64b84ea45ee9
+* https://medium.com/@gustavo.guss/quick-tutorial-of-jenkins-b99d5f5889f2
+* https://medium.com/@gustavo.guss/jenkins-building-docker-image-and-sending-to-registry-64b84ea45ee9
