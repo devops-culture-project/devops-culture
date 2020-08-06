@@ -106,7 +106,20 @@ In home of jenkins, click on “New Item”, select “Pipeline” and put the j
 
 ![Create Pipeline](pictures/jenkins-create-pipeline.png)
 
+Copy the Jenkinsfile code to the job window:
+
+![Pipeline Inside a job](pictures/pipeline-in-job-config.png)
+
+Save the job.
+
+## Testing docker command in the job
+Click on “Build Now” in job’s menu:
+
+![Choose Build Now](pictures/jenkins-menu-build-now.png)
+
+
+
 ## Biblography
-This Lab is based on this websites:
+This Lab is based on this websites:  
 https://medium.com/@gustavo.guss/quick-tutorial-of-jenkins-b99d5f5889f2
 https://medium.com/@gustavo.guss/jenkins-building-docker-image-and-sending-to-registry-64b84ea45ee9
