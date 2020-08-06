@@ -103,15 +103,28 @@ In this pipeline, We have 2 environment variables to change the registry and the
 The job will have one step.Docker build command will be run by utilizing the jenkins build number in the docker tag.
 
 ## Creating a job to test docker command
-Click on "Create new pipeline" and choose GitHub in the second window:
+Click on "Create new pipeline"
+Fill the form:
+* Choose GitHub
+* Give an access token which you can create via the "create access token" link
+* Choose user user
+* Choose the devops culture repository
+Click "Create pipeline"
 
-![Choose GitHub](pictures/pipeline-choose-git.png)
+![Choose GitHub](pictures/create-pipeline.png)
+
+In the next view we\ll build the pipeline
+
+![Pipeline Creation](pipeline-workflow-creation.png)
+
+Click on '+' and call this job "build nodejs-app image"
+Add a step from kind "Run arbitrary Pipeline script"
 
 Copy the Jenkinsfile code to the job window:
 
-![Pipeline Inside a job](pictures/pipeline-in-job-config.png)
+![Pipeline Inside a job](pictures/add-pipeline-code.png)
 
-Save the job.
+Save the job and commit to master.
 
 ## Testing docker command in the job
 Click on “Build Now” in job’s menu:
