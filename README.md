@@ -111,4 +111,4 @@ List of projects that is important to know.
 For the list of projects: [Important Projects](projects.md)
 
 ## Road Map
-Please reffer to the project's wiki page
+More knowledge to add to the project: [Road Map](roadmap.md)
