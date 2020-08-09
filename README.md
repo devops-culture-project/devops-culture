@@ -104,11 +104,11 @@ I don't think that's the perfect and full example but it sure help to understand
 
 ## Hands-On
 List of learning sources to stufy from.
-For the list of learning sources: [hands-on learning sources](hands-on.md)
+For the list of learning sources: [Hands-On Learning Sources](hands-on.md)
 
 ## Great projects to know
 List of projects that is important to know.
 For the list of projects: [Important Projects](projects.md)
 
 ## Road Map
-More knowledge to add to the project: [Road Map](roadmap.md)
+More knowledge to add to the project: [Road Map](road-map.md)
