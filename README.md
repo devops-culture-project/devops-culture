@@ -90,8 +90,9 @@ I don't think that's the perfect and full example but it sure help to understand
 
 ## Know these foundations
 1. CNCF: https://www.cncf.io/
-1. CNCF Landscape: https://landscape.cncf.io/
+1. 1. CNCF Landscape: https://landscape.cncf.io/
 1. Linux Foundation: https://www.linuxfoundation.org/projects/cloud/
+1. 1. CII Best Practices Badge Program: https://bestpractices.coreinfrastructure.org/en
 1. CI/CD Foundation: https://cd.foundation/
 
 ## Know these websites
