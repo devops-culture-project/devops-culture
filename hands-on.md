@@ -12,6 +12,8 @@ This section includes Information about learning sources.
 ## Programming
 1. Python (learnpython): https://www.learnpython.org
 1. Go tour: https://go-tour-he.appspot.com/#1
+1. Javascript (MDN): https://developer.mozilla.org/en-US/docs/Web/JavaScript
+1. 1. A re-introduction to JavaScript (JS tutorial): https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
 ## Containers
 1. Bret Fisher container courses: https://www.bretfisher.com/courses/ (I guess that's the best option but it costs money)
