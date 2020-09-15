@@ -51,6 +51,7 @@ I don't think that's the perfect and full example but it sure help to understand
 1. Iac by Microsoft: https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code
 
 ### Testing
+1. Software Testing Fundementals (all code is guilty until proven innocent): https://softwaretestingfundamentals.com/
 1. Cross Browser Testing: https://www.softwaretestinghelp.com/how-is-cross-browser-testing-performed/
 1. Parallel testing: https://help.crossbrowsertesting.com/selenium-testing/getting-started/what-is-parallel-testing/
 1. Performance Testing vs. Load Testing vs. Stress Testing by BlazeMeter: https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing
