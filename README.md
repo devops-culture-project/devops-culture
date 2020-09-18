@@ -74,6 +74,10 @@ I don't think that's the perfect and full example but it sure help to understand
 ### HTTP/S
 1. HTTP fundementals: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP
 
+### README.md
+1. Syntax guidance for basic Markdown usage by Microsoft: https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops#:~:text=In%20a%20Markdown%20file%20or,text%20on%20a%20new%20line.
+1. The MarkDown Guide: https://markdown-guide.readthedocs.io/en/latest/index.html
+
 ## Ideas
 1. The Twelve-Factoer App: https://www.linuxfoundation.org/projects/cloud/
 1. The secret lives of data (RAFT): http://thesecretlivesofdata.com/raft/
@@ -91,9 +95,9 @@ I don't think that's the perfect and full example but it sure help to understand
 
 ## Know these foundations
 1. CNCF: https://www.cncf.io/
-1. 1. CNCF Landscape: https://landscape.cncf.io/
+   - CNCF Landscape: https://landscape.cncf.io/
 1. Linux Foundation: https://www.linuxfoundation.org/projects/cloud/
-1. 1. CII Best Practices Badge Program: https://bestpractices.coreinfrastructure.org/en
+   - CII Best Practices Badge Program: https://bestpractices.coreinfrastructure.org/en
 1. CI/CD Foundation: https://cd.foundation/
 
 ## Know these websites
