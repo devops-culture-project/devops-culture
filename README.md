@@ -35,7 +35,10 @@ I don't think that's the perfect and full example but it sure help to understand
 1. More from DevSecOps: [DevSecOps Extras](devsecops/)
 
 ### Gitops
-1. Everything you need to know to beacome a Gitops ninja: https://www.youtube.com/watch?v=r50tRQjisxw
+1. GitOps by weaveworks: https://www.gitops.tech
+1. GitOps Community: https://gitops-community.github.io
+1. The pains of GitOps 1.0 by Codefresh: https://medium.com/containers-101/the-pains-of-gitops-1-0-6c4bf428bf71
+1. "Managing Your Full Application Lifecycle Using GitOps!" by Codefresh: https://codefresh.io/events/codefreshlive/
 
 ### Configuration Management
 1. What is configuration management by DigitalOcean: https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management
