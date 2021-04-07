@@ -1,49 +1,32 @@
 # projects
 This section includes projects that you should know.
-
-## Must Have Projects
-### Docker
-Website: https://www.docker.com/  
-GitHub: https://github.com/docker
-
-### Kubernetes
-Website: https://kubernetes.io/  
-GitHub: https://github.com/kubernetes/kubernetes
-
-## Projects for masters
-### Helm - Package manager for k8s
-Website: https://helm.sh/  
-GitHub: https://github.com/helm
-
-### DevSecOps - DevSecOps initiative and software repositories
-Website: https://www.devsecops.org/  
-GitHub: https://github.com/devsecops
-
-### Netdata - for monitoring
-Website: https://www.netdata.cloud/  
-GitHub: https://github.com/netdata  
-Docker Hub: https://hub.docker.com/u/netdata
-
-### Argo - CD for k8s
-Website: https://argoproj.github.io/  
-GitHub: https://github.com/argoproj  
-Docker Hub: https://hub.docker.com/u/argoproj
-
-### Snyk - Continuous Security
-Website: https://snyk.io/  
-GitHub: https://github.com/snyk
-
-### Tekton - CI pipelines engine
-Website: https://tekton.dev/  
-GitHub: https://github.com/tektoncd  
-Docker Hub: https://hub.docker.com/u/tekton
-
-### Selenium - for UI testing
-Website: https://www.selenium.dev/  
-GitHub: https://github.com/SeleniumHQ  
-Docker Hub: https://hub.docker.com/u/selenium
-
-### Statusbay - Visibility to k8s deployment
-Website: https://statusbay.io/  
-GitHub: https://github.com/similarweb/statusbay  
-Docker Hub (By SimilarWeb): https://hub.docker.com/u/similarweb
+----
+- Containerd - industry standard conatiner runtime: https://containerd.io
+- Docker: https://www.docker.com/
+- Kubernetes: https://kubernetes.io/
+- Prometheus: https://prometheus.io
+- Elasticsearch: https://www.elastic.co
+- Argo - k8s native gitops: https://argoproj.github.io/
+- Codefresh - gitops  automation platform for k8s: https://codefresh.io
+- Helm - package manager for k8s: https://helm.sh/
+- Harbor - cloud native repository for k8s: https://goharbor.io
+- Istio - service mesh solution: https://istio.io
+- Consul - service mesh solution: https://www.consul.io
+- Vault - Secrets management: https://www.hashicorp.com/products/vault
+- Ansible - automation platform: https://www.ansible.com
+- Thanos - highly available prometehus setuo: https://thanos.io
+- Fluentd - data collector for unified logging layer: https://www.fluentd.org
+- Jaeger - e2e distributed tracing: https://www.jaegertracing.io
+- Krakend - API gateway: https://www.krakend.io
+- Flagger - Progressive Delivery k8s operator: https://flagger.app
+- Terraform - cloud infrastructure automation: https://www.hashicorp.com/products/terraform
+- Netdata - for monitoring: https://www.netdata.cloud/
+- Buildpacks - source to image: https://buildpacks.io
+- DevSecOps - DevSecOps initiative and software repositories: https://www.devsecops.org/
+- Snyk - Continuous Security: https://snyk.io/
+- Tekton - k8s native pipelines engine: https://tekton.dev/
+- Selenium - for UI testing: https://www.selenium.dev/
+- RedHat Operator Framework: https://operatorframework.io
+## Some Interesting projects to watch:
+- Coralogix - modern observability platform: https://coralogix.com
+- Statusbay - Visibility to k8s deployment: https://statusbay.io/

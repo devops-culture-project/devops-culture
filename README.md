@@ -51,7 +51,8 @@ I don't think that's the perfect and full example but it sure help to understand
 1. Best practices for production cloud service: https://medium.com/@crismerritt/dont-overlook-these-8-essential-best-practices-for-production-cloud-services-9b2145f5cb1e
 
 ### Infrastructure as a Code
-1. Iac by Microsoft: https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code
+1. IaC by Microsoft: https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code
+1. IaC by Crate.io: https://crate.io/a/infrastructure-as-code-part-one/
 
 ### Testing
 1. Software Testing Fundementals (all code is guilty until proven innocent): https://softwaretestingfundamentals.com/
@@ -60,9 +61,14 @@ I don't think that's the perfect and full example but it sure help to understand
 1. Performance Testing vs. Load Testing vs. Stress Testing by BlazeMeter: https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing
 
 ### Microservices
+1. Microservices by Martin Fowler (OG): https://martinfowler.com/articles/microservices.html
 1. Microservices in a nutshell: https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9
 1. Microservices architecthure style by Microsoft: https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices
 1. What are microservices by RedHat: https://www.redhat.com/en/topics/microservices/what-are-microservices
+1. Nicroservices.com: https://microservices.io
+
+### Service Mesh
+1. Service mesh by HashiCorp (consul concept overview): https://www.youtube.com/watch?v=8T8t4-hQY74&t=1s
 
 ### Web servers
 1. Web servers introduction: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
