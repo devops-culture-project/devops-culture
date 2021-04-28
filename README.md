@@ -112,9 +112,11 @@ I don't think that's the perfect and full example but it sure help to understand
 1. CI/CD Foundation: https://cd.foundation/
 
 ## Know these websites
-1. The Devop Guy YouTube Channel: https://www.youtube.com/channel/UCFe9-V_rN9nLqVNiI8Yof3w
 1. Medium: https://medium.com (Advice: Pay 5$ per month and create an account)
+1. DevOps Toolkit Channel: https://www.youtube.com/channel/UCfz8x0lVzJpb_dgWm9kPVrw
+1. TechWorld with Nana Channel: https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA
 1. Medium Container Hub bt Codefresh: https://medium.com/containers-101
+1. The Devop Guy YouTube Channel: https://www.youtube.com/channel/UCFe9-V_rN9nLqVNiI8Yof3w
 1. Docker Blog: https://www.docker.com/blog/
 1. MDN Web Docs: https://developer.mozilla.org/en-US/
 1. The agile admin: https://theagileadmin.com
