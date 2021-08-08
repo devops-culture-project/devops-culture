@@ -67,6 +67,9 @@ I don't think that's the perfect and full example but it sure help to understand
 1. What are microservices by RedHat: https://www.redhat.com/en/topics/microservices/what-are-microservices
 1. Nicroservices.com: https://microservices.io
 
+### Observability & Monitoring
+1. Key Differences Between Observability and Monitoring – And Why You Need Both (Coralogix): https://coralogix.com/blog/key-differences-between-observability-and-monitoring-and-why-you-need-both/
+
 ### Service Mesh
 1. Service mesh by HashiCorp (consul concept overview): https://www.youtube.com/watch?v=8T8t4-hQY74&t=1s
 
@@ -125,10 +128,6 @@ I don't think that's the perfect and full example but it sure help to understand
 ## Hands-On
 List of learning sources to stufy from.
 For the list of learning sources: [Hands-On Learning Sources](hands-on.md)
-
-## Great projects to know
-List of projects that is important to know.
-For the list of projects: [Important Projects](projects.md)
 
 ## Road Map
 More knowledge to add to the project: [Road Map](road-map.md)
