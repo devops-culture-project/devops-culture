@@ -17,21 +17,21 @@ I don't think that's the perfect and full example but it sure help to understand
 ## Concepts
 
 ### What is Devops
-1. Quick and simple video: https://www.youtube.com/watch?v=_I94-tJlovg
-1. What is devops by Amazon: https://aws.amazon.com/devops/what-is-devops/
-1. What is devops by Atlassian: https://www.atlassian.com/devops
+1. [Quick and simple video](https://www.youtube.com/watch?v=_I94-tJlovg)
+1. [What is devops by Amazon](https://aws.amazon.com/devops/what-is-devops/)
+1. [What is devops by Atlassian](https://www.atlassian.com/devops)
 
 ### CI/CD
-1. What is CI/CD by RedHat: https://www.redhat.com/en/topics/devops/what-is-ci-cd
-1. What is CI/CD by Codefresh: https://codefresh.io/continuous-integration/continuous-integration-delivery-pipeline-important/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=docker-ci-cd&amp;utm_term=ci%20cd%20tools&amp;gclid=Cj0KCQjw6sHzBRCbARIsAF8FMpVQCgsC9ozvQGx0wuzZK6h1WAeH0tafDfyg-_H23L0eHSiRgajxIdEaAmkeEALw_wcB
-1. CI &amp; Continuous Delivery vs. Continuous Deployment by Atlassian: https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment
-1. Devops Assembly Lines: https://www.xenonstack.com/blog/devops-assembly-line/
+1. [What is CI/CD by RedHat](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+1. [What is CI/CD by Codefresh](https://codefresh.io/continuous-integration/continuous-integration-delivery-pipeline-important/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=docker-ci-cd&amp;utm_term=ci%20cd%20tools&amp;gclid=Cj0KCQjw6sHzBRCbARIsAF8FMpVQCgsC9ozvQGx0wuzZK6h1WAeH0tafDfyg-_H23L0eHSiRgajxIdEaAmkeEALw_wcB)
+1. [CI &amp; Continuous Delivery vs. Continuous Deployment by Atlassian](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+1. [Devops Assembly Lines](https://www.xenonstack.com/blog/devops-assembly-line/)
 
-### Sec(urity)
-1. What is devsecops by RedHat: https://www.redhat.com/en/topics/devops/what-is-devsecops
-1. DevSecOps community: https://github.com/devsecops/devsecops
-1. Awsome DevSecOps: https://github.com/devsecops/awesome-devsecops
-1. DevSecOps manifesto: https://www.devsecops.org/
+### Security
+1. [What is devsecops by RedHat](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+1. [DevSecOps community](https://github.com/devsecops/devsecops)
+1. [Awsome DevSecOps](https://github.com/devsecops/awesome-devsecops)
+1. [DevSecOps manifesto](https://www.devsecops.org/)
 1. More from DevSecOps: [DevSecOps Extras](devsecops/)
 
 ### Gitops
