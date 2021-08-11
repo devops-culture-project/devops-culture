@@ -80,6 +80,7 @@ I don't think that's the perfect and full example but it sure help to understand
 
 ### Service Mesh
 1. [Service mesh by HashiCorp (consul concept overview)](https://www.youtube.com/watch?v=8T8t4-hQY74&t=1s)
+1. [Service mesh security by HashiCorp (consul connect overview)](https://www.youtube.com/watch?v=mxeMdl0KvBI)
 
 ### Web servers
 1. [Web servers introduction](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
