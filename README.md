@@ -27,13 +27,6 @@ I don't think that's the perfect and full example but it sure help to understand
 1. [CI &amp; Continuous Delivery vs. Continuous Deployment by Atlassian](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 1. [Devops Assembly Lines](https://www.xenonstack.com/blog/devops-assembly-line/)
 
-### Security
-1. [What is devsecops by RedHat](https://www.redhat.com/en/topics/devops/what-is-devsecops)
-1. [DevSecOps community](https://github.com/devsecops/devsecops)
-1. [Awsome DevSecOps](https://github.com/devsecops/awesome-devsecops)
-1. [DevSecOps manifesto](https://www.devsecops.org/)
-1. More from DevSecOps: [DevSecOps Extras](devsecops/)
-
 ### Gitops
 1. [GitOps by weaveworks](https://www.gitops.tech)
 1. [GitOps Community](https://gitops-community.github.io)
@@ -81,6 +74,13 @@ I don't think that's the perfect and full example but it sure help to understand
 ### Service Mesh
 1. [Service mesh by HashiCorp (consul concept overview)](https://www.youtube.com/watch?v=8T8t4-hQY74&t=1s)
 1. [Service mesh security by HashiCorp (consul connect overview)](https://www.youtube.com/watch?v=mxeMdl0KvBI)
+
+### Security
+1. [What is devsecops by RedHat](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+1. [DevSecOps community](https://github.com/devsecops/devsecops)
+1. [Awsome DevSecOps](https://github.com/devsecops/awesome-devsecops)
+1. [DevSecOps manifesto](https://www.devsecops.org/)
+1. More from DevSecOps: [DevSecOps Extras](devsecops/)
 
 ### Web servers
 1. [Web servers introduction](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
