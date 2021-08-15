@@ -64,7 +64,7 @@ I don't think that's the perfect and full example but it sure help to understand
 1. [Semantic Versioning](https://semver.org)
 
 ### Git
-1. [Git Workflows](https://semver.org)
+1. [Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 ### Observability & Monitoring
 1. [The Golden Triangle of Observability in Monitoring](https://devops.com/metrics-logs-and-traces-the-golden-triangle-of-observability-in-monitoring/)
