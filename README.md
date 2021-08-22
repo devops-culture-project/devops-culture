@@ -80,7 +80,6 @@ I don't think that's the perfect and full example but it sure help to understand
 1. [DevSecOps community](https://github.com/devsecops/devsecops)
 1. [Awsome DevSecOps](https://github.com/devsecops/awesome-devsecops)
 1. [DevSecOps manifesto](https://www.devsecops.org/)
-1. More from DevSecOps: [DevSecOps Extras](devsecops/)
 
 ### Web servers
 1. [Web servers introduction](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
