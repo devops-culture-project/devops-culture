@@ -8,6 +8,7 @@ This section includes Information about learning sources.
 1. RedHat Ansible wrokshop: http://ansible.redhatgov.io/standard/welcome/index.html  
 ## Programming
 1. Python (learnpython): https://www.learnpython.org
+1. Python Challenge: http://www.pythonchallenge.com
 1. Go tour: https://go-tour-he.appspot.com/#1
 1. Javascript (MDN): https://developer.mozilla.org/en-US/docs/Web/JavaScript
    - A re-introduction to JavaScript (JS tutorial): https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
