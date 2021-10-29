@@ -30,8 +30,6 @@ I don't think that's the perfect and full example but it sure help to understand
 ### Gitops
 1. [GitOps by weaveworks](https://www.gitops.tech)
 1. [GitOps Community](https://gitops-community.github.io)
-1. [The pains of GitOps 1.0 by Codefresh](https://medium.com/containers-101/the-pains-of-gitops-1-0-6c4bf428bf71)
-1. ["Managing Your Full Application Lifecycle Using GitOps!" by Codefresh](https://codefresh.io/events/codefreshlive/)
 
 ### Configuration Management
 1. [What is configuration management by DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management)
@@ -49,9 +47,9 @@ I don't think that's the perfect and full example but it sure help to understand
 
 ### Testing
 1. [Software Testing Fundementals (all code is guilty until proven innocent)](https://softwaretestingfundamentals.com/)
-1. [Cross Browser Testing](https://www.softwaretestinghelp.com/how-is-cross-browser-testing-performed/)
 1. [Parallel testing](https://help.crossbrowsertesting.com/selenium-testing/getting-started/what-is-parallel-testing/)
 1. [Performance Testing vs. Load Testing vs. Stress Testing by BlazeMeter](https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing)
+1. [Cross Browser Testing](https://www.softwaretestinghelp.com/how-is-cross-browser-testing-performed/)
 
 ### Microservices
 1. [Microservices by Martin Fowler (OG)](https://martinfowler.com/articles/microservices.html)
@@ -112,11 +110,6 @@ I don't think that's the perfect and full example but it sure help to understand
 1. [Bret Fisher "Ask Me Anything"](https://github.com/BretFisher/ama)
 1. [TGI Kubernetes by Joe Beda](https://www.youtube.com/watch?v=9YYeE-bMWv8&list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa&index=99)
 
-## Hubs
-1. [Docker Hub](https://hub.docker.com)
-1. [Operator Hub](https://operatorhub.io)
-1. [Artifact Hub](https://artifacthub.io)
-
 ## Know these foundations
 1. [CNCF](https://www.cncf.io/)
    - [CNCF Landscape](https://landscape.cncf.io/)
@@ -133,6 +126,11 @@ I don't think that's the perfect and full example but it sure help to understand
 1. [MDN Web Docs](https://developer.mozilla.org/en-US/)
 1. [The agile admin](https://theagileadmin.com)
 1. [Atlassian Devops](https://www.atlassian.com/blog/devops)
+
+## Hubs
+1. [Docker Hub](https://hub.docker.com)
+1. [Operator Hub](https://operatorhub.io)
+1. [Artifact Hub](https://artifacthub.io)
 
 ## Hands-On
 List of learning sources to study from.
