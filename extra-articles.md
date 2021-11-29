@@ -15,6 +15,17 @@
 
 ## Linux
 - [A Deep Dive into Iptables and Netfilter Architecture](https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture)
-## Other
-- [The JVM Architecture Explained](https://dzone.com/articles/jvm-architecture-explained)
+
+## Java
+- [Understanding JVM Architecture](https://medium.com/platform-engineer/understanding-jvm-architecture-22c0ddf09722)
+- [Understanding Java Memory Model](https://medium.com/platform-engineer/understanding-java-memory-model-1d0863f6d973)
+<!-- - [The JVM Architecture Explained](https://dzone.com/articles/jvm-architecture-explained) -->
+
+## Network
 - [CNI - the Container Network Interface](https://github.com/containernetworking/cni)
+
+## npm
+- [How to Publish an Updated Version of an npm Package](https://cloudfour.com/thinks/how-to-publish-an-updated-version-of-an-npm-package/)
+
+## OOP
+- [SOLID Principles of OOP](https://medium.com/swlh/solid-principles-of-oop-c24bd6ccde77)

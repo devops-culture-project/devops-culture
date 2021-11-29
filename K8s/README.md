@@ -7,5 +7,6 @@ Links to a more specific k8s knowledge
    - https://github.com/kubernetes/dashboard
    - https://codeberg.org/hjacobs/kube-web-view
    - https://github.com/hjacobs/kube-ops-view
-1. [kubectl cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/  )
-1. [How k8s schedualer works](https://opensource.com/article/20/11/kubernetes-scheduler  )
+1. [kubectl cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+1. [How k8s schedualer works](https://opensource.com/article/20/11/kubernetes-scheduler)
+1. [How to validate Kubernetes YAML files](https://itnext.io/how-to-validate-kubernetes-yaml-files-9a17b9a30f08)

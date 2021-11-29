@@ -1,10 +1,14 @@
+<p align="center">
+    <img src="devops-culture.png" width="200">
+</p>
+
 # devops-culture
-Ideas &amp; concepts that will help you become a great devops
+Ideas &amp; concepts that will help you become a great Develoepr / Devops / SRE, whatever you want to be!
 
 ## Inroduction
 This document created to help developers and operations as one to get easily inside the world of devops.
 In general, knowing these concepts and ideas will help you to become better in any field.
-There are more specific information to some stuff and it's inside it's specific folder.
+There are more specific information to some stuff and its inside it's specific folder.
 Hope it will help you !
 
 ## Devops RoadMap
@@ -12,7 +16,48 @@ Hope it will help you !
 This is the check list (or step by step guide) to become a devops/SRE (or whatever you want to call it):
 https://roadmap.sh/devops
 
-I don't think that's the perfect and full example but it sure help to understand the basics.
+I don't think that's the perfect and full example but it sure help to understand the basics of what you need to know - yes, you need to know everything :)
+
+## Ideas
+1. [Google SRE](https://sre.google/sre-book/table-of-contents/)
+1. [The Twelve-Factoer App](https://12factor.net)
+1. [Google SRE Workbook](https://sre.google/workbook/table-of-contents/)
+1. [The secret lives of data (RAFT)](http://thesecretlivesofdata.com/raft/)
+1. [AWS Well-Architected and the Five Pillars](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
+
+## Container Captains
+1. [Devops Toolkit by Viktor farcic](https://www.youtube.com/channel/UCfz8x0lVzJpb_dgWm9kPVrw)
+1. [Anais Urlichs](https://www.youtube.com/c/AnaisUrlichs)
+1. [Bret Fisher](https://www.bretfisher.com)
+1. [Bret Fisher Blog](https://newsletter.bretfisher.com)
+1. [Bret Fisher "Ask Me Anything"](https://github.com/BretFisher/ama)
+1. [TGI Kubernetes by Joe Beda](https://www.youtube.com/watch?v=9YYeE-bMWv8&list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa&index=99)
+
+## Know these foundations
+1. [CNCF](https://www.cncf.io/)
+   - [CNCF Landscape](https://landscape.cncf.io/)
+1. [Linux Foundation](https://www.linuxfoundation.org/projects/cloud/)
+   - [CI Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en)
+1. [CD Foundation](https://cd.foundation/)
+
+## Know these websites
+1. [Medium](https://medium.com) (Advice: Pay 5$ per month and create an account)
+1. [TechWorld with Nana Channel](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
+1. [Medium Container Hub bt Codefresh](https://medium.com/containers-101)
+1. [The Devop Guy YouTube Channel](https://www.youtube.com/channel/UCFe9-V_rN9nLqVNiI8Yof3w)
+1. [Docker Blog](https://www.docker.com/blog/)
+1. [MDN Web Docs](https://developer.mozilla.org/en-US/)
+1. [The agile admin](https://theagileadmin.com)
+1. [Atlassian Devops](https://www.atlassian.com/blog/devops)
+
+## Hubs
+1. [Docker Hub](https://hub.docker.com)
+1. [Operator Hub](https://operatorhub.io)
+1. [Artifact Hub](https://artifacthub.io)
+
+## Hands-On
+List of learning sources to study from.
+For the list of learning sources: [Hands-On Learning Sources](hands-on.md)
 
 ## Concepts
 
@@ -69,6 +114,8 @@ I don't think that's the perfect and full example but it sure help to understand
 1. [Key Differences Between Observability and Monitoring – And Why You Need Both (Coralogix)](https://coralogix.com/blog/key-differences-between-observability-and-monitoring-and-why-you-need-both/)
 1. [Logging Best Practices: From Simple to Space Age](https://coralogix.com/blog/logging-best-practices-stages/)
 
+### Events & Apache Kafka
+1. [Apache Kafka® Fundamentals by confluent](https://www.youtube.com/watch?v=-DyWhcX3Dpc&list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)
 ### Service Mesh
 1. [Service mesh by HashiCorp (consul concept overview)](https://www.youtube.com/watch?v=8T8t4-hQY74&t=1s)
 1. [Service mesh security by HashiCorp (consul connect overview)](https://www.youtube.com/watch?v=mxeMdl0KvBI)
@@ -95,46 +142,3 @@ I don't think that's the perfect and full example but it sure help to understand
 ### README.md
 1. [Syntax guidance for basic Markdown usage by Microsoft](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops#:~:text=In%20a%20Markdown%20file%20or,text%20on%20a%20new%20line.)
 1. [The MarkDown Guide](https://markdown-guide.readthedocs.io/en/latest/index.html)
-
-## Ideas
-1. [Google SRE](https://sre.google/sre-book/table-of-contents/)
-1. [The Twelve-Factoer App](https://12factor.net)
-1. [Google SRE Workbook](https://sre.google/workbook/table-of-contents/)
-1. [The secret lives of data (RAFT)](http://thesecretlivesofdata.com/raft/)
-1. [AWS Well-Architected and the Five Pillars](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
-
-## Container Captains
-1. [Devops Toolkit by Viktor farcic](https://www.youtube.com/channel/UCfz8x0lVzJpb_dgWm9kPVrw)
-1. [Bret Fisher](https://www.bretfisher.com)
-1. [Bret Fisher Blog](https://newsletter.bretfisher.com)
-1. [Bret Fisher "Ask Me Anything"](https://github.com/BretFisher/ama)
-1. [TGI Kubernetes by Joe Beda](https://www.youtube.com/watch?v=9YYeE-bMWv8&list=PL7bmigfV0EqQzxcNpmcdTJ9eFRPBe-iZa&index=99)
-
-## Know these foundations
-1. [CNCF](https://www.cncf.io/)
-   - [CNCF Landscape](https://landscape.cncf.io/)
-1. [Linux Foundation](https://www.linuxfoundation.org/projects/cloud/)
-   - [CI Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en)
-1. [CD Foundation](https://cd.foundation/)
-
-## Know these websites
-1. [Medium](https://medium.com) (Advice: Pay 5$ per month and create an account)
-1. [TechWorld with Nana Channel](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
-1. [Medium Container Hub bt Codefresh](https://medium.com/containers-101)
-1. [The Devop Guy YouTube Channel](https://www.youtube.com/channel/UCFe9-V_rN9nLqVNiI8Yof3w)
-1. [Docker Blog](https://www.docker.com/blog/)
-1. [MDN Web Docs](https://developer.mozilla.org/en-US/)
-1. [The agile admin](https://theagileadmin.com)
-1. [Atlassian Devops](https://www.atlassian.com/blog/devops)
-
-## Hubs
-1. [Docker Hub](https://hub.docker.com)
-1. [Operator Hub](https://operatorhub.io)
-1. [Artifact Hub](https://artifacthub.io)
-
-## Hands-On
-List of learning sources to study from.
-For the list of learning sources: [Hands-On Learning Sources](hands-on.md)
-
-## Road Map
-More knowledge to add to the project: [Road Map](road-map.md)
