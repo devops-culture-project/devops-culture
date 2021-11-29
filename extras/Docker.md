@@ -1,5 +1,4 @@
 # Docker
-Links to a more specific docker knowledge
 
 1. [Security Concerns in Docker by Bret Fisher](https://github.com/BretFisher/ama/issues/17)
 1. [Docker Image Specification](https://github.com/moby/moby/blob/master/image/spec/v1.2.md)

@@ -77,7 +77,6 @@ I don't think that's the perfect and full example but it sure help to understand
 ### Observability & Monitoring
 1. [The Golden Triangle of Observability in Monitoring](https://devops.com/metrics-logs-and-traces-the-golden-triangle-of-observability-in-monitoring/)
 1. [Key Differences Between Observability and Monitoring – And Why You Need Both (Coralogix)](https://coralogix.com/blog/key-differences-between-observability-and-monitoring-and-why-you-need-both/)
-1. [Logging Best Practices: From Simple to Space Age](https://coralogix.com/blog/logging-best-practices-stages/)
 
 ### Events & Apache Kafka
 1. [Apache Kafka® Fundamentals by confluent](https://www.youtube.com/watch?v=-DyWhcX3Dpc&list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)
