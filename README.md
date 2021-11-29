@@ -6,10 +6,15 @@
 Ideas &amp; concepts that will help you become a great Develoepr / Devops / SRE, whatever you want to be!
 
 ## Inroduction
-This document created to help developers and operations as one to get easily inside the world of devops.
+This document is created to help developers and operations as one to get easily inside the world of devops.
 In general, knowing these concepts and ideas will help you to become better in any field.
-There are more specific information to some stuff and its inside it's specific folder.
-Hope it will help you !
+There are more specific information to some stuff and its inside it's specific folder. </br>
+</br>
+Concepts are the biggest section, as the world of application and its ecosystem evolves, there are more thing to learn in order to understand the big picture. Still, There is no section which more important than other. Some gives you knowledge, and some gives you a way to learn and evolve on your own, so don't skip anything. </br>
+</br>
+It is always a pleasure to get an issue or even a PR. </br>
+Please, if you liked this repository, give us a star on GitHub, it will help more people to be aware to this repo. </br>
+Hope it will help you!
 
 ## Devops RoadMap
 
@@ -18,6 +23,7 @@ https://roadmap.sh/devops
 
 I don't think that's the perfect and full example but it sure help to understand the basics of what you need to know - yes, you need to know everything :)
 
+----
 ## Concepts
 
 ### What is Devops
