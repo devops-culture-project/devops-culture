@@ -73,6 +73,7 @@ I don't think that's the perfect and full example but it sure help to understand
 
 ### Git
 1. [Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+2. [Git Branching](https://learngitbranching.js.org)
 
 ### Observability & Monitoring
 1. [The Golden Triangle of Observability in Monitoring](https://devops.com/metrics-logs-and-traces-the-golden-triangle-of-observability-in-monitoring/)
@@ -109,7 +110,7 @@ I don't think that's the perfect and full example but it sure help to understand
 
 ## Ideas
 1. [Google SRE](https://sre.google/sre-book/table-of-contents/)
-1. [The Twelve-Factoer App](https://12factor.net)
+1. [The Twelve-Factor App](https://12factor.net)
 1. [Google SRE Workbook](https://sre.google/workbook/table-of-contents/)
 1. [The secret lives of data (RAFT)](http://thesecretlivesofdata.com/raft/)
 1. [AWS Well-Architected and the Five Pillars](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
