@@ -114,7 +114,7 @@ I don't think that's the perfect and full example but it sure help to understand
 1. [The secret lives of data (RAFT)](http://thesecretlivesofdata.com/raft/)
 1. [AWS Well-Architected and the Five Pillars](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
 
-## Container Captains
+## Blogs and Channels
 1. [Devops Toolkit by Viktor farcic](https://www.youtube.com/channel/UCfz8x0lVzJpb_dgWm9kPVrw)
 1. [Anais Urlichs](https://www.youtube.com/c/AnaisUrlichs)
 1. [Bret Fisher](https://www.bretfisher.com)
@@ -129,7 +129,11 @@ I don't think that's the perfect and full example but it sure help to understand
    - [CI Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en)
 1. [CD Foundation](https://cd.foundation/)
 
+## Community
+There are a lot of communities around the world. Find yours at the [community.md](community.md)
+
 ## Know these websites
+1. [DEV community](https://dev.to)
 1. [Medium](https://medium.com) (Advice: Pay 5$ per month and create an account)
 1. [TechWorld with Nana Channel](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
 1. [Medium Container Hub bt Codefresh](https://medium.com/containers-101)
