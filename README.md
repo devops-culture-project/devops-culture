@@ -137,7 +137,7 @@ There are a lot of communities around the world. Find yours at the [community.md
 1. [DEV community](https://dev.to)
 1. [Medium](https://medium.com) (Advice: Pay 5$ per month and create an account)
 1. [TechWorld with Nana Channel](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
-1. [Medium Container Hub bt Codefresh](https://medium.com/containers-101)
+1. [Medium Container Hub by Codefresh](https://medium.com/containers-101)
 1. [The Devop Guy YouTube Channel](https://www.youtube.com/channel/UCFe9-V_rN9nLqVNiI8Yof3w)
 1. [Docker Blog](https://www.docker.com/blog/)
 1. [MDN Web Docs](https://developer.mozilla.org/en-US/)
