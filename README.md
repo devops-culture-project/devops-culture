@@ -40,6 +40,7 @@ I don't think that's the perfect and full example but it sure help to understand
 ### Gitops
 1. [GitOps by weaveworks](https://www.gitops.tech)
 1. [GitOps Community](https://gitops-community.github.io)
+1. [OpenGitOps](https://opengitops.dev/about)
 
 ### Configuration Management
 1. [What is configuration management by DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management)
