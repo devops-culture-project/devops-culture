@@ -154,3 +154,10 @@ There are a lot of communities around the world. Find yours at the [community.md
 ## Hands-On
 List of learning sources to study from.
 For the list of learning sources: [Hands-On Learning Sources](hands-on.md)
+
+----
+
+## More to talk about
+I'm here to talk about anything else, please reach out or if your'e close to me, lets sit for a coffee!
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="itamar-marom" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/itamar-marom?trk=profile-badge">Itamar Marom</a></div>
