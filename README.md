@@ -136,15 +136,15 @@ I don't think that's the perfect and full example but it sure help to understand
 There are a lot of communities around the world. Find yours at the [community.md](community.md)
 
 ## Know these websites
-1. [DEV community](https://dev.to)
 1. [Medium](https://medium.com) (Advice: Pay 5$ per month and create an account)
-1. [TechWorld with Nana Channel](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
-1. [Medium Container Hub by Codefresh](https://medium.com/containers-101)
+1. [DEV community](https://dev.to)
 1. [The Devop Guy YouTube Channel](https://www.youtube.com/channel/UCFe9-V_rN9nLqVNiI8Yof3w)
-1. [Docker Blog](https://www.docker.com/blog/)
+1. [AppsFlyer Engineering Blog](https://medium.com/appsflyer)
+1. [Taboola Engineering Blog](https://blog.taboola.com/category/engineering/)
+1. [The Netflix Tech Blog](https://netflixtechblog.com)
+1. [Medium Container Hub by Codefresh](https://medium.com/containers-101)
+1. [TechWorld with Nana Channel](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
 1. [MDN Web Docs](https://developer.mozilla.org/en-US/)
-1. [The agile admin](https://theagileadmin.com)
-1. [Atlassian Devops](https://www.atlassian.com/blog/devops)
 
 ## Hubs
 1. [Docker Hub](https://hub.docker.com)
