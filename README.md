@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/devops-culture.png" width="200">
+    <img src="docs/assets/devops-culture.png" width="200">
 </p>
 
 # Devops Culture
