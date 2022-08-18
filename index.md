@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="devops-culture.png" width="200">
+    <img src="assets/devops-culture.png" width="200">
 </p>
 
-# devops-culture
-Ideas &amp; concepts that will help you become a great Develoepr / Devops / SRE, whatever you want to be!
+# Devops Culture
+Ideas &amp; concepts that will help you become a great Developer / Devops / SRE, whatever you want to be!
 
 ## Inroduction
 This document is created to help developers and operations as one to get easily inside the world of devops.
@@ -133,7 +133,7 @@ I don't think that's the perfect and full example but it sure help to understand
 1. [CD Foundation](https://cd.foundation/)
 
 ## Community
-There are a lot of communities around the world. Find yours at the [community.md](community.md)
+<!-- There are a lot of communities around the world. Find yours at the [community.md](community.md) -->
 
 ## Know these websites
 1. [Medium](https://medium.com) (Advice: Pay 5$ per month and create an account)
@@ -153,7 +153,7 @@ There are a lot of communities around the world. Find yours at the [community.md
 
 ## Hands-On
 List of learning sources to study from.
-For the list of learning sources: [Hands-On Learning Sources](hands-on.md)
+<!-- For the list of learning sources: [Hands-On Learning Sources](hands-on.md) -->
 
 ----
 
