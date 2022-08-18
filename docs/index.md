@@ -133,7 +133,7 @@ I don't think that's the perfect and full example but it sure help to understand
 1. [CD Foundation](https://cd.foundation/)
 
 ## Community
-<!-- There are a lot of communities around the world. Find yours at the [community.md](community.md) -->
+There are a lot of communities around the world. Find yours at the [community.md](community.md)
 
 ## Know these websites
 1. [Medium](https://medium.com) (Advice: Pay 5$ per month and create an account)
@@ -153,7 +153,7 @@ I don't think that's the perfect and full example but it sure help to understand
 
 ## Hands-On
 List of learning sources to study from.
-<!-- For the list of learning sources: [Hands-On Learning Sources](hands-on.md) -->
+For the list of learning sources: [Hands-On Learning Sources](hands-on.md)
 
 ----
 
