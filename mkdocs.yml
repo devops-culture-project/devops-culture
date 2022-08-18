@@ -18,9 +18,6 @@ theme:
     - search
     - search.suggest
     - search.highlight
-    - git-revision-date-localized:
-        enable_creation_date: true
-        type: date
   palette:
     - scheme: default
       toggle:
