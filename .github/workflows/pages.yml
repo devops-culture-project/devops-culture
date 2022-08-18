@@ -3,6 +3,10 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'docs/**'
+      - '.github/workflows/docs.yaml'
+      - 'mkdocs.yml'
 jobs:
   deploy:
     runs-on: ubuntu-latest

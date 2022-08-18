@@ -17,7 +17,6 @@ Please, if you liked this repository, give us a star on GitHub, it will help mor
 Hope it will help you!
 
 ## Devops RoadMap
-
 This is the check list (or step by step guide) to become a devops/SRE (or whatever you want to call it):
 https://roadmap.sh/devops
 
