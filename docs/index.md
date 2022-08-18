@@ -6,7 +6,7 @@
 Ideas &amp; concepts that will help you become a great Developer / Devops / SRE, whatever you want to be!
 
 ## Inroduction
-This document is created to help engineers to get easily inside the world of applications.
+This document was created to help engineers to get easily inside the world of applications.
 In general, knowing these concepts and ideas will help you to become better in any field.
 There are more specific information to some stuff and its inside it's specific folder.  
   
