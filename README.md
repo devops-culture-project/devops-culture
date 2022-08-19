@@ -19,6 +19,6 @@ It is always a pleasure to get an issue or a PR.</br>
 I'm always happy to talk about software. If you have any question, please reach out!</br>
 By the way, if you are close to me, a software conversation on a cup of coffee is better. :coffee: </br>
 
-:material-linkedin: <a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/itamar-marom?trk=profile-badge">Itamar Marom</a>
+:linkedin: <a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/itamar-marom?trk=profile-badge">Itamar Marom</a>
 <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
 <!-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="itamar-marom" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/itamar-marom?trk=profile-badge">Itamar Marom</a></div> -->
