@@ -1,7 +1,22 @@
+# Project Information
 site_name: Devops Culture
+site_url: https://devops-culture-project.github.io/devops-culture
+site_author: Itamar Marom
+site_description: >-
+  Devops Culture provides software engineers with one place that holds a wide variety of concepts, 
+  ideas, and tools related to software and its eco-system.
+
+# Repository
+repo_url: https://github.com/devops-culture-project/devops-culture
+repo_name: devops-culture-project
+
+# Copyright
+copyright: Copyright &copy; 2020 - 2022 Itamar Marom
+
+# Configuration
 theme:
   name: material
-  # logo: assets/devops-culture.png
+  logo: assets/devops-culture.png
   icon:
     repo: fontawesome/brands/github 
   font:
@@ -18,6 +33,11 @@ theme:
     - search
     - search.suggest
     - search.highlight
+    - glightbox
+    - social
+    - git-authors
+    - git-committers:
+      repository: devops-culture-project/devops-culture
   palette:
     - scheme: default
       toggle:
@@ -31,5 +51,22 @@ theme:
         name: Switch to light mode
       primary: deep purple
       accent: deep purple
-repo_url: https://github.com/devops-culture-project/devops-culture.git
-repo_name: devops-culture-project
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/devops-culture-project
+      name: Devops Culture on GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/itamar-marom
+      name: Itmaar Marom on LinkedIn
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg

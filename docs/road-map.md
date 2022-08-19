@@ -1,9 +1,15 @@
-# Welcome to the devops-culture Road Map!
-Detailed below are more fields that will be covered in this project:
-1. CNAB: https://cnab.io
-1. Code Coverage
-1. serverless
-1. Chaos monkey
-1. Netflix
-1. Test-Driven Development
-1. DDD
+# Road Map
+
+!!! info
+
+    Detailed below are more fields that will be covered in this project.</br>
+    If you have a new topic that should be placed here, please open an issue and we will review it.</br>
+
+CNAB: https://cnab.io</br>
+Code Coverage</br>
+serverless</br>
+Chaos engineering</br>
+Test-Driven Development</br>
+DDD</br>
+Data mesh</br>
+Martib Fowler</br>
