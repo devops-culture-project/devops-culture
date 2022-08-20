@@ -21,23 +21,6 @@ theme:
     repo: fontawesome/brands/github 
   font:
     code: Ubuntu
-  features:
-    - navigation.instant
-    - navigation.tracking
-    # - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - toc.integrate
-    - navigation.top
-  plugins:
-    - search
-    - search.suggest
-    - search.highlight
-    - glightbox
-    - social
-    - git-authors
-    - git-committers:
-      repository: devops-culture-project/devops-culture
   palette:
     - scheme: default
       toggle:
@@ -51,6 +34,37 @@ theme:
         name: Switch to light mode
       primary: deep purple
       accent: deep purple
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - toc.integrate
+    - toc.follow
+    - search.highlight
+    - search.share
+    - search.suggest
+    # - header.autohide
+    - announce.dismiss
+  #   - content.code.annotate
+  #   - content.tooltips
+
+  plugins:
+    - search
+    - social
+    - git-revision-date-localized:
+        enable_creation_date: true
+    - git-committers:
+        repository: devops-culture-project/devops-culture
+    - git-authors
+    # - minify:
+    #     minify_html: true
+    # - glightbox
 
 extra:
   social:
@@ -70,3 +84,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: devops-culture-project
+      repo: devops-culture
