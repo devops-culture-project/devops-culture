@@ -1,0 +1,2 @@
+:baby_bottle:  | [Javascript (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)</br>
+:baby_bottle:  | [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)</br>

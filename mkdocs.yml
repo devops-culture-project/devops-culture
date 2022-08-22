@@ -40,7 +40,7 @@ theme:
     - navigation.tracking
     # - navigation.tabs
     # - navigation.tabs.sticky
-    - navigation.expand
+    # - navigation.expand
     - navigation.prune
     - navigation.indexes
     - navigation.top
@@ -88,3 +88,48 @@ markdown_extensions:
       repo_url_shorthand: true
       user: devops-culture-project
       repo: devops-culture
+
+nav:
+  - Home: index.md
+  - Topics:
+    - Code Design: topics/code-design.md
+    - API: topics/api.md
+    - Web Servers: topics/web-servers.md
+    - Source Control: topics/source-control.md
+    - Microservices: topics/microservices.md
+    - Versioning: topics/versioning.md
+    - Testing: topics/testing.md
+    - Cloud: topics/cloud.md
+    - DevOps: topics/devops.md
+    - Configuration Management: topics/configuration-management.md
+    - Infrastructure as Code: topics/infrastructure-as-code.md
+    - CI/CD: topics/ci-cd.md
+    - GitOps: topics/gitops.md
+    - Observability: topics/observability.md
+    - Streaming & Messaging: topics/streaming-messaging.md
+    - Data: topics/data.md
+    - Security: topics/security.md
+    - Documentation: topics/documentation.md
+  - Concepts: concepts.md
+  - Blogs & Channels:
+    - Platforms: blogs-channels/platforms.md
+    - Advocates: blogs-channels/advocates.md
+    - Experts Blogs: blogs-channels/experts-blogs.md
+  - Foundations: foundations.md
+  - Communities: communities.md
+  - Software:
+    - Golang: software/golang.md
+    - Java: software/java.md
+    - JavaScript: software/javascript.md
+    - ReactJS: software/reactjs.md
+  - Technologies:
+    - Linux: technologies/linux.md
+    - Network: technologies/network.md
+    - Docker: technologies/docker.md
+    - Kubernetes: technologies/kubernetes.md
+    - Grafana: technologies/grafana.md
+    - Open Telemetry: technologies/open-telemetry.md
+    - Apache Kafka: technologies/apache-kafka.md
+    - Apache Airflow: technologies/apache-airflow.md
+  - Hands On: hands-on.md
+  - Roadmap: road-map.md

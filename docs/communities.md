@@ -1,5 +1,8 @@
 # Community
-Lists of communities around the world
+!!! info
+
+    Lists of communities around the world </br>
+    If you don't see your location here, please contribute!</br>
 
 ## Tel Aviv
 [TLV dev community](https://tlvcommunity.dev/)</br>

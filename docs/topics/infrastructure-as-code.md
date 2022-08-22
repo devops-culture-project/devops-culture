@@ -1,0 +1,2 @@
+:baby_bottle:  | [Infrastructure as Code and its tools - TechWorld with Nana](https://www.youtube.com/watch?v=POPP2WTJ8es&ab_channel=TechWorldwithNana)</br>
+:baby_bottle:  | [IaC by Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code)</br>

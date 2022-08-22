@@ -3,7 +3,7 @@
 </figure>
 
 # Devops Culture
-## Inroduction
+## Introduction
 Devops Culture provides software engineers with one place that holds a wide variety of concepts, ideas, and tools related to software and its eco-system.
 This knowledge will help you gain good architectural abilities that will help you design, develop and operate your application correctly.
 
