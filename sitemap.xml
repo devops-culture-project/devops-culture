@@ -2,47 +2,197 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://devops-culture-project.github.io/devops-culture/</loc>
-         <lastmod>2022-08-20</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://devops-culture-project.github.io/devops-culture/blogs-channels/</loc>
-         <lastmod>2022-08-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://devops-culture-project.github.io/devops-culture/community/</loc>
-         <lastmod>2022-08-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://devops-culture-project.github.io/devops-culture/concepts/</loc>
-         <lastmod>2022-08-20</lastmod>
+         <loc>https://devops-culture-project.github.io/devops-culture/communities/</loc>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devops-culture-project.github.io/devops-culture/foundations/</loc>
-         <lastmod>2022-08-20</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devops-culture-project.github.io/devops-culture/hands-on/</loc>
-         <lastmod>2022-08-20</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devops-culture-project.github.io/devops-culture/ideas/</loc>
-         <lastmod>2022-08-20</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devops-culture-project.github.io/devops-culture/road-map/</loc>
-         <lastmod>2022-08-20</lastmod>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://devops-culture-project.github.io/devops-culture/tooling/</loc>
-         <lastmod>2022-08-20</lastmod>
+         <loc>https://devops-culture-project.github.io/devops-culture/blogs-channels/advocates/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/blogs-channels/experts-blogs/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/blogs-channels/platforms/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/api/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/ci-cd/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/cloud/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/code-design/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/configuration-management/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/devops/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/documentation/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/events/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/gitops/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/infrastructure-as-code/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/microservices/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/observability/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/security/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/service-mesh/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/source-control/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/testing/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/versioning/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/concepts/web-servers/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/software/golang/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/software/java/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/software/javascript/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/software/reactjs/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/technologies/apache-airflow/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/technologies/apache-kafka/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/technologies/docker/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/technologies/grafana/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/technologies/kubernetes/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/technologies/linux/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/technologies/network/</loc>
+         <lastmod>2022-08-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/technologies/open-telemetry/</loc>
+         <lastmod>2022-08-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
