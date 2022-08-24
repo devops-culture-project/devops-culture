@@ -123,13 +123,14 @@ nav:
     - JavaScript: software/javascript.md
     - ReactJS: software/reactjs.md
   - Technologies:
-    - Linux: technologies/linux.md
-    - Network: technologies/network.md
     - Docker: technologies/docker.md
     - Kubernetes: technologies/kubernetes.md
     - Grafana: technologies/grafana.md
     - Open Telemetry: technologies/open-telemetry.md
     - Apache Kafka: technologies/apache-kafka.md
+    - Apache Spark: technologies/apache-spark.md
     - Apache Airflow: technologies/apache-airflow.md
+    - Linux: technologies/linux.md
+    - Network: technologies/network.md
   - Hands On: hands-on.md
   - Roadmap: road-map.md

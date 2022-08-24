@@ -1,4 +1,7 @@
-:material-web: | [The State of Data Engineering 2022](https://lakefs.io/the-state-of-data-engineering-2022/)
+:material-podcast:  | [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)</br>
+
+:material-web:      | [The State of Data Engineering 2022](https://lakefs.io/the-state-of-data-engineering-2022/)</br>
+:material-web:      | [Luminousmen](https://luminousmen.com/about/)</br>
 
 ## Data Silos
 :baby_bottle:  | [Data Silos: What Are They and How to Fix Them?](https://www.astronomer.io/blog/data-silos-what-are-they-how-to-fix-them/)</br>
