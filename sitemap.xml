@@ -111,6 +111,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://devops-culture-project.github.io/devops-culture/technologies/terraform/</loc>
+         <lastmod>2022-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://devops-culture-project.github.io/devops-culture/topics/api/</loc>
          <lastmod>2022-08-25</lastmod>
          <changefreq>daily</changefreq>
