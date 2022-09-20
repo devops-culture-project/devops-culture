@@ -124,6 +124,7 @@ nav:
     - ReactJS: software/reactjs.md
   - Technologies:
     - Docker: technologies/docker.md
+    - Terraform: technologies/terraform.md
     - Kubernetes: technologies/kubernetes.md
     - Grafana: technologies/grafana.md
     - Open Telemetry: technologies/open-telemetry.md
