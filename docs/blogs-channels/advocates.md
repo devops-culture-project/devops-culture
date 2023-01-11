@@ -5,6 +5,7 @@
 :material-web:      | [Bret Fisher "Ask Me Anything"](https://github.com/BretFisher/ama)</br>
 
 :material-podcast:  | [The Devops Paradox Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9kZXZvcHNwYXJhZG94LmxpYnN5bi5jb20vcnNz?sa=X&ved=0CAMQ4aUDahgKEwigzsnbidH5AhUAAAAAHQAAAAAQqAQ)</br>
+:material-podcast:  | [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)</br>
 
 :material-youtube:  | [Devops Toolkit by Viktor farcic](https://www.youtube.com/channel/UCfz8x0lVzJpb_dgWm9kPVrw)</br>
 :material-youtube:  | [The Devops Guy](https://www.youtube.com/channel/UCFe9-V_rN9nLqVNiI8Yof3w)</br>
