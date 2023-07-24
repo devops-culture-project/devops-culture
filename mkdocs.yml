@@ -108,6 +108,7 @@ nav:
     - Observability: topics/observability.md
     - Streaming & Messaging: topics/streaming-messaging.md
     - Data: topics/data.md
+    - AI: topics/ai.md
     - Security: topics/security.md
     - Documentation: topics/documentation.md
   - Concepts: concepts.md

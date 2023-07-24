@@ -8,3 +8,5 @@
 
 :man_mage:     | [How k8s schedualer works](https://opensource.com/article/20/11/kubernetes-scheduler)</br>
 :man_mage:     | [Kubernetes best practices from kubernetes architect](https://github.com/diegolnasc/kubernetes-best-practices)</br>
+
+:material-podcast:  | [Kubernetes Podcast](https://kubernetespodcast.com/)
